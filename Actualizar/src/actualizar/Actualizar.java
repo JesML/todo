@@ -19,7 +19,7 @@ public class Actualizar {
      */
     public static void main(String[] args) {
       JOptionPane.showMessageDialog(null, "actualizar");
-      JOptionPane.showMessegeDialog(null, "Hola mundo :v");
+      JOptionPane.showMessageDialog(null,"2.2";)
     }
     
 }
